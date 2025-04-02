@@ -132,7 +132,7 @@ sudo cp commons-httpclient-3.1.jar /usr/lib/hive/lib/
 
 ```
 
-2. Reiniciar **Hive** desde SSH del nodo maestro del cluster de Haddop para que se apliquen los cambios.
+2. Reiniciar **Hive** desde SSH del nodo maestro del cluster de Hadoop para que se apliquen los cambios.
 
 
 **PARTE 4: CONECTAR DATOS**
@@ -179,9 +179,9 @@ curl -X GET "http://IP-SERVER-ELASTIC:9200/alumnos/_search?pretty"
 
 Creamos un sencillo dashboard con **Kibana** para visualizar datos del index *alumons*.
 
-Para ello, simplemente desde nuestro navegador, entramos en: **http://IP_ELASTIC_SERVER:5601**, y en **Analitycs** hacemos click en **Dashboards**. A continuación hacemos click en **Create Dataview**, dende selecionamos el index *alumnos*. 
+Para ello desde nuestro navegador, entramos en: **http://IP_ELASTIC_SERVER:5601**, y en **Analitycs** hacemos click en **Dashboards**. A continuación, hacemos click en **Create Dataview**, dende selecionamos el index *alumnos*. 
 
-Por último en **Create Dashboard** y **Create Visualization** encontramos una variedad de gráficos que podemos elegir para la visulización que mejor se ajuste a las características de los datos. En este caso he elegido un gráfico de anillo.
+Por último, en **Create Dashboard** y **Create Visualization** encontramos una variedad de gráficos que podemos elegir para la visulización que mejor se ajuste a las características de los datos. En este caso he elegido un gráfico de anillo.
 
 
 El documento PDF con las capturas de las diferentes partes de la práctica en este enlace 👉🏻: [Práctica ElacticSearch_Hadoop.pdf](https://github.com/Leticia2512/Practica-BigData_Architecture/blob/main/Pra%CC%81ctica%20ElacticSearch_Hadoop.pdf).
