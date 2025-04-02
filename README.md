@@ -1,4 +1,4 @@
-# Práctica Módulo Bid Data Arquitectura
+# Práctica Módulo Big Data Arquitectura
 ### Bootcamp Big Data, Machine Learning & IA_Keepcoding
 ---
 
