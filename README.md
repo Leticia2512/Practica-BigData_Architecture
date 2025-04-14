@@ -184,7 +184,7 @@ Para ello desde nuestro navegador, entramos en: **http://IP_ELASTIC_SERVER:5601*
 Por último, en **Create Dashboard** y **Create Visualization** encontramos una variedad de gráficos que podemos elegir para la visulización que mejor se ajuste a las características de los datos. En este caso he elegido un gráfico de anillo.
 
 
-El documento PDF con las capturas de las diferentes partes de la práctica en este enlace 👉🏻: [Práctica ElacticSearch_Hadoop.pdf](https://github.com/Leticia2512/Practica-BigData_Architecture/blob/main/Pra%CC%81ctica%20ElacticSearch_Hadoop.pdf).
+El documento PDF con las capturas de las diferentes partes de la práctica se pueden ver en este enlace 👉🏻: [Práctica ElacticSearch_Hadoop.pdf](https://github.com/Leticia2512/Practica-BigData_Architecture/blob/main/Pra%CC%81ctica%20ElacticSearch_Hadoop.pdf).
 
 ___
 
